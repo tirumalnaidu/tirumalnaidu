@@ -12,12 +12,12 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on ASIC Design & Verification, Processor Design and, Neural Network Accelerators.
-- 🌱 I’m currently learning UVM and Computer Architecture.
-- 💼 I’m pursuing a Bachelor's degree in Electronics and Communication Engineering.
-- 💬 Ask me about anything, I'm happy to help.
-- 📫 Please email via tirumal.bodpu@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
+- I’m currently working on ASIC Design & Verification, Processor Design and, Neural Network Accelerators.
+- I’m currently learning UVM and Computer Architecture.
+- I’m pursuing a Bachelor's degree in Electronics and Communication Engineering.
+- Ask me about anything, I'm happy to help.
+- Please email via tirumal.bodpu@gmail.com to reach me.
+- See my [Curriculum Vitae](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
 
 ![tirumal's github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
 
