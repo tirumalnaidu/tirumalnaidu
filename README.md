@@ -21,6 +21,6 @@
 
 ![tirumal's github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
 
-### The projects I am currently working on:
+### The projects I worked on:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tirumalnaidu&repo=opencl-cnn-accelerator&theme=graywhite)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tirumalnaidu&repo=pipelined-mips-processor&theme=graywhite)
