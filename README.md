@@ -20,3 +20,11 @@
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
 
 ![tirumal's github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
+
+<br />
+
+### The projects I am currently working on:
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tirumalnaidu&repo=opencl-cnn-accelerator&theme=graywhite)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tirumalnaidu&repo=pipelined-mips-processor&theme=graywhite)
+
+<br />
