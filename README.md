@@ -16,8 +16,8 @@
 - My interests are Processor Design, Computer Architecture, Deep Learning, and ASIC Design.
 - I’m pursuing my Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology, Jabalpur
 - Ask me about anything, I'm happy to help.
-- Please email via tirumal.bodpu@gmail.com to reach me.
-- See my [Curriculum Vitae](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
+- Please email via tirumal.bodepu@gmail.com to reach me.
+- See my [Resume](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
 
