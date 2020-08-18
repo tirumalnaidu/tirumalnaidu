@@ -12,8 +12,8 @@
 <br />
 <br />
 
-- I’m currently working on ASIC Design & Verification, Processor Design and, Neural Network Accelerators.
-- I’m currently learning UVM and Computer Architecture.
+- I’m currently working on ASIC Verification and Neural Network Accelerators.
+- My interests are Processor Design, Computer Architecture, Deep Learning, and ASIC Design.
 - I’m pursuing my Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology, Jabalpur
 - Ask me about anything, I'm happy to help.
 - Please email via tirumal.bodpu@gmail.com to reach me.
