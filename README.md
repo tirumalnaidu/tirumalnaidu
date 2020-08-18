@@ -14,7 +14,7 @@
 
 - I’m currently working on ASIC Design & Verification, Processor Design and, Neural Network Accelerators.
 - I’m currently learning UVM and Computer Architecture.
-- I’m pursuing a Bachelor's degree in Electronics and Communication Engineering.
+- I’m pursuing my Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology, Jabalpur
 - Ask me about anything, I'm happy to help.
 - Please email via tirumal.bodpu@gmail.com to reach me.
 - See my [Curriculum Vitae](https://drive.google.com/file/d/1yS8Cns-NaCVWgQp37xHZnJLdthL1KaYI/view?usp=sharing) to get more info.
