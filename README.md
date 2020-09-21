@@ -13,9 +13,9 @@
 <br />
 <br />
 
-- I’m currently working on ASIC Verification and Neural Network Accelerators.
-- My interests are Processor Design, Computer Architecture, Deep Learning, and ASIC Design.
+- My interests are RTL Design, RISC-V, Computer Architecture, and Deep Learning.
 - I’m pursuing my Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology, Jabalpur
+- I’m currently working on RTL Verification and Neural Network Accelerators.
 - Ask me about anything, I'm happy to help.
 - Please email via tirumal.bodepu@gmail.com to reach me.
 - See my [resume](https://drive.google.com/file/d/1Kx-auEY750mpc3trxILM0p2S-pl1uLh9/view?usp=sharing) to get more info of me.
