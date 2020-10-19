@@ -18,7 +18,7 @@
 - I’m currently working on RTL Verification and Neural Network Accelerators.
 - Ask me about anything, I'm happy to help.
 - Please email via tirumal.bodepu@gmail.com to reach me.
-- See my [resume](https://drive.google.com/file/d/1E_jTuADebxi71PMk_5TU9Mhx4F7IE-sV/view?usp=sharing) to get more info of me.
+- See my [resume](https://drive.google.com/file/d/1u3dQ4HlLCVIB147NbT3J2RaFofrM1Pit/view?usp=sharing) to get more info of me.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
 
