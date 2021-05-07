@@ -16,5 +16,3 @@
 - Ask me about anything, I'm happy to help. Please email via tirumal.bodepu@gmail.com.
 - See my [resume](https://drive.google.com/file/d/1u3dQ4HlLCVIB147NbT3J2RaFofrM1Pit/view?usp=sharing) to get more info of me.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=tirumalnaidu&theme=graywhite&show_icons=true&hide_border=true)
-
