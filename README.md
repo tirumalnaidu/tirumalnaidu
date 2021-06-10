@@ -1,4 +1,4 @@
-### hi, i'm tirumal
+## hi, i'm tirumal
 
 <a href="https://www.linkedin.com/in/tirumalnaidu/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
