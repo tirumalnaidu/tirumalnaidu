@@ -15,6 +15,6 @@ My interests are Computer Architecture and DNN Hardware Design. I’m currently 
 💬 Ask me about anything, I'm happy to help. Please email via tirumal.bodepu@gmail.com<br />
 📎 See my [resume](https://drive.google.com/file/d/1z-yy9UQDrXKg-kFXAfO43DzBFpSg0rQp/view?usp=sharing) to get more info of me<br />
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=tirumalnaidu&show_icons=true&hide_border=true" />
-</p>
+<!-- </p> -->
