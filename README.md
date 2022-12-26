@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=hi,%20i%27m%20tirumal&fontSize=60&animation=fadeIn&fontAlignY=33"></img>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Hi!%20I%27m%20Tirumal.&fontSize=50"></img>
 
 <a href="https://www.linkedin.com/in/tirumalnaidu/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
