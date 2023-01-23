@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Hi!%20I%27m%20Tirumal.&fontSize=50"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I%27m%20%20Tirumal.&fontSize=60"></img>
 
 <a href="https://www.linkedin.com/in/tirumalnaidu/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,5 +16,5 @@ My interests are Computer Architecture and DNN Hardware Design. I’m currently 
 📎 See my [resume](https://drive.google.com/file/d/1z-yy9UQDrXKg-kFXAfO43DzBFpSg0rQp/view?usp=sharing) to get more info of me<br />
 
 <!-- <p align="center"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=tirumalnaidu&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tirumalnaidu&hide_title=true&theme=buefy&show_icons=true&hide_border=true" />
 <!-- </p> -->
